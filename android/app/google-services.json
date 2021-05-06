@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813635135524",
+    "project_id": "restrasapp",
+    "storage_bucket": "restrasapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813635135524:android:3b42b5818af87ebfb550b1",
+        "android_client_info": {
+          "package_name": "com.shashank.restrasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813635135524-3atmbg5ugip94qff6s60kh604rb0mlhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4id9vp9IsGBFKfY-Np1l6rtE98xK3yeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813635135524-3atmbg5ugip94qff6s60kh604rb0mlhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
